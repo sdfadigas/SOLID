@@ -5,11 +5,11 @@
 
 - [Concept](#concept)
 - [SOLID Principles](#solid-principles)
-  - [Single Responsibility Principle (SRP)](#single-responsibility-principle)
-  - [Open-Closed Principle (OCP)](#open-closed-principle)
-  - [Liskov Substitution Principle (LSP)](#liskov-substitution-principle)
-  - [Interface Segregation Principle (ISP)](#interface-segregation-principle)
-  - [Dependency Inversion Principle (DIP)](#dependency-inversion-principle)
+  - [Single Responsibility Principle](#single-responsibility-principle)
+  - [Open-Closed Principle](#open-closed-principle)
+  - [Liskov Substitution Principle](#liskov-substitution-principle)
+  - [Interface Segregation Principle](#interface-segregation-principle)
+  - [Dependency Inversion Principle](#dependency-inversion-principle)
     
 
 ## Concept
